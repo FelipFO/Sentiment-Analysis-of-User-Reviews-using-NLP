@@ -1,3 +1,5 @@
+Get the data from https://drive.google.com/drive/folders/1spvN_HuNXUUyVppLvRQ8rhY783EzhA8b?usp=drive_link
+
 # Sprint Project 05
 > Sentiment Analysis on Movies Reviews
 
